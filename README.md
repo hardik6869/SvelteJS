@@ -1,3 +1,3 @@
-# Svelte Feedback app
+## Svelte Feedback App
 
-[Live Demo](https://sveltejs-feedback-app.netlify.app/)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://sveltejs-feedback-app.netlify.app/)
